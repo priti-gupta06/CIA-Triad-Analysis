@@ -1,0 +1,144 @@
+CIA TRIAD IN CYBERSECURITY
+
+1. Introduction
+
+The CIA Triad is one of the fundamental concepts of cybersecurity. CIA stands for Confidentiality, Integrity, and Availability. 
+It provides a basic framework for protecting information and information systems from unauthorized access, modification, and disruption.
+The CIA Triad helps organizations maintain the security of their data and ensures that information is available to authorized users when required.
+It is widely used in areas such as network security, web security, cloud security, banking, healthcare, and government systems.
+
+
+2. Components of the CIA Triad
+
+The CIA Triad consists of three main principles:
+1. Confidentiality
+2. Integrity
+3. Availability
+These three principles work together to provide effective information security.
+
+
+3. Confidentiality
+
+Confidentiality means protecting information from unauthorized access or disclosure.
+Only authorized people or systems should be able to access sensitive information.
+
+Examples:
+- Using passwords to protect accounts.
+- Encrypting sensitive data.
+- Using access control and authentication.
+- Restricting confidential files to authorized employees.
+
+Example in real life:
+In online banking, a customer's account details and password should only be accessible to the customer and authorized banking systems.
+
+
+4. Integrity
+
+Integrity means maintaining the accuracy, consistency, and reliability of information.
+Data should not be changed, deleted, or manipulated by unauthorized users.
+
+Examples:
+- Using file integrity monitoring.
+- Applying digital signatures.
+- Using hashes to detect changes.
+- Restricting modification permissions.
+
+Example in real life:
+If a student's examination marks are stored in a college database, unauthorized people should not be able to change those marks.
+
+
+5. Availability
+
+Availability means ensuring that authorized users can access information and services whenever they are required.
+A system should be designed to remain operational even when failures, attacks, or technical problems occur.
+
+Examples:
+- Regular data backups.
+- Using redundant servers.
+- Disaster recovery systems.
+- Power backup systems.
+- Protection against Distributed Denial-of-Service (DDoS) attacks.
+
+Example in real life:
+An online banking website should remain available to customers when they need to check their balance or perform transactions.
+
+
+6. Importance of the CIA Triad
+
+The CIA Triad is important because it provides a basic approach for protecting information and computer systems.
+
+Its importance includes:
+- Protecting sensitive and confidential information.
+- Preventing unauthorized modification of data.
+- Maintaining reliable and accurate information.
+- Ensuring systems and services remain accessible.
+- Reducing the impact of cyberattacks.
+- Supporting secure business operations.
+
+
+7. CIA Triad and Cyberattacks
+
+Different cyberattacks can affect different parts of the CIA Triad.
+
+CIA Principle| Possible Threat| Example
+Confidentiality| Data breach| Stealing customer information
+Integrity| Data manipulation| Changing financial records
+Availability| DDoS attack| Making a website unavailable
+
+For example, a data breach mainly affects confidentiality because unauthorized people gain access to private information. 
+A DDoS attack affects availability because legitimate users may be unable to access a service.
+
+
+8. Methods Used to Protect the CIA Triad
+
+Organizations use several security techniques to protect confidentiality, integrity, and availability.
+
+Confidentiality
+- Encryption
+- Strong passwords
+- Multi-factor authentication
+- Access control
+
+Integrity
+- Hashing
+- Digital signatures
+- File integrity monitoring
+- Version control
+
+Availability
+- Backups
+- Redundant systems
+- Disaster recovery
+- Load balancing
+- DDoS protection
+
+
+9. Real-World Example
+
+Consider an online banking system.
+
+Confidentiality: Customer account information is protected using encryption and authentication.
+Integrity: Transaction records are protected from unauthorized modification using security controls and integrity checks.
+Availability: Banking services use backup systems and redundant infrastructure to keep services available to customers.
+
+Therefore, all three principles are necessary to maintain a secure banking system.
+
+
+10. Advantages of the CIA Triad
+
+- Provides a simple framework for information security.
+- Helps organizations identify security requirements.
+- Protects sensitive information.
+- Reduces the risk of unauthorized data modification.
+- Helps maintain business continuity.
+- Supports secure system design and management.
+
+
+11. Conclusion
+
+The CIA Triad is a fundamental framework of cybersecurity consisting of Confidentiality, Integrity, and Availability.
+Confidentiality protects information from unauthorized access, integrity protects information from unauthorized modification,
+and availability ensures that authorized users can access systems and data when required.
+
+Maintaining a balance between all three principles is essential for building secure and reliable information systems.
+Organizations can use technologies such as encryption, authentication, access control, hashing, backups, and disaster recovery to protect the CIA Triad.
