@@ -1,0 +1,131 @@
+REAL-WORLD EXAMPLES OF THE CIA TRIAD
+
+The CIA Triad is applied in many real-world systems to protect information and maintain secure and reliable services. 
+The following are five important examples.
+
+---
+
+1. Online Banking
+
+Online banking is a common example of the CIA Triad.
+Banks handle highly sensitive information such as customer names, account numbers, passwords, transaction details, and financial records.
+
+Confidentiality
+Banks protect customer information from unauthorized access. Login passwords, OTPs, and multi-factor authentication are used to make sure that only authorized users can access an account. 
+Encryption is also used to protect data during communication.
+
+Integrity
+Banking transactions must be accurate and should not be modified without authorization. 
+For example, if a customer transfers ₹5,000, the transaction amount and account details must remain unchanged. 
+Security controls and transaction monitoring help detect unauthorized changes.
+
+Availability
+Banking services must be available whenever customers need them.
+Banks use backup systems, redundant servers, monitoring, and disaster recovery mechanisms to maintain services during hardware failures or cyberattacks.
+
+Example
+If an attacker steals a customer's banking password, confidentiality is affected. 
+If an attacker changes the transaction amount, integrity is affected. If a cyberattack makes the banking application unavailable, availability is affected.
+
+---
+
+2. Healthcare and Hospital Systems
+
+Hospitals store sensitive information such as patient medical records, prescriptions, test results, personal information, and billing details. 
+Protecting this information is extremely important.
+
+Confidentiality
+Only authorized doctors, nurses, staff, and patients should be able to access medical records.
+Login authentication and access permissions can prevent unauthorized users from viewing confidential information.
+
+Integrity
+Medical information must remain accurate. 
+For example, a patient's blood group, allergy information, or prescribed medicine should not be changed by an unauthorized person.
+Incorrect information could result in improper treatment.
+
+Availability
+Doctors and medical staff need access to patient information when providing treatment. 
+Hospitals therefore use backups, redundant systems, and disaster recovery mechanisms to keep important systems available.
+
+Example
+If an unauthorized person views a patient's medical record, confidentiality is violated. 
+If someone changes a patient's medical information, integrity is affected. 
+If hospital computer systems become unavailable during an emergency, availability is affected.
+
+---
+
+3. E-Commerce and Online Shopping
+
+E-commerce websites and applications handle customer information, addresses, payment details, orders, and product information.
+
+Confidentiality
+Customer information and payment-related information must be protected from unauthorized access.
+Secure authentication and encryption help protect sensitive information.
+
+Integrity
+Order information must remain accurate. 
+For example, an attacker should not be able to change the quantity of an order, delivery address, or payment amount without authorization.
+
+Availability
+Customers expect shopping websites and applications to be available when they want to browse products or place orders. 
+Companies use multiple servers, backups, monitoring, and other technologies to reduce downtime.
+
+Example
+If an attacker steals customer payment information, confidentiality is affected. 
+If an order is modified without permission, integrity is affected. 
+If a cyberattack takes the shopping website offline, availability is affected.
+
+---
+
+4. College and University Management Systems
+
+Educational institutions use computer systems to store student information such as personal details, attendance, examination marks, academic records, and fees.
+
+Confidentiality
+Student information should only be accessible to authorized students, teachers, and administrative staff. 
+Passwords and access control can be used to restrict access.
+
+Integrity
+Academic records must be accurate and protected against unauthorized changes. 
+For example, students should not be able to modify their examination marks or attendance records.
+
+Availability
+Students and teachers need access to portals for activities such as checking results, downloading study material, submitting assignments, and viewing timetables. 
+The system should therefore remain available during important academic periods.
+
+Example
+If someone obtains unauthorized access to student records, confidentiality is affected. 
+If examination marks are changed without permission, integrity is affected.
+If the college portal stops working during result publication, availability is affected.
+
+---
+
+5. Cloud Storage and Cloud Computing
+
+Cloud services are widely used by individuals and organizations to store files, applications, databases, and business information.
+Examples include cloud-based storage, databases, and business applications.
+
+Confidentiality
+Cloud providers use authentication, authorization, and encryption to protect stored information. 
+Access permissions ensure that only authorized users can access particular files or services.
+
+Integrity
+Data stored in the cloud should remain accurate and should not be modified by unauthorized users.
+Access controls, logging, and integrity checks can help detect or prevent unauthorized changes.
+
+Availability
+Cloud services should remain accessible to authorized users. 
+Cloud providers use redundant infrastructure, backups, monitoring, and disaster recovery mechanisms to reduce the effect of hardware failures and other disruptions.
+
+Example
+If an unauthorized person accesses a company's confidential cloud files, confidentiality is affected.
+If important files are modified without permission, integrity is affected. If a cloud service becomes unavailable, availability is affected.
+
+---
+
+Summary
+
+The CIA Triad is important in almost every digital system. Online banking, healthcare, e-commerce, educational systems,
+and cloud computing all require confidentiality, integrity, and availability.
+
+Therefore, the CIA Triad provides a fundamental approach for protecting information and maintaining secure and reliable digital services.
